@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning __React__.
+- 💬 Ask me about __ELK__.
+- 😄 Dont ask me about __Weblogic__.
+
 <!--
 **ptmp13/ptmp13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
