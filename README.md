@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"># Social</p>
+<h1 align="left"># Social</h1>
 
 ###
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"># Medium Posts</p>
+<h1 align="left"># Medium Posts</h1>
 
 ###
 
@@ -84,8 +84,3 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
