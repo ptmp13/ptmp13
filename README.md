@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **reactjs**
 
-- 📝 I regularly write articles on [tmp13.com](tmp13.com)
+- 📝 I regularly write articles on [tmp13.com](https://tmp13.com)
 
 - 💬 Ask me about **elk**
 
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/ptmp13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ptmp13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/petr-degtiarev-349597212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petr-degtiarev-349597212" height="30" width="40" /></a>
 <a href="https://medium.com/@ptmp13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ptmp13" height="30" width="40" /></a>
-<a href="https://discord.gg/222452119939055617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="222452119939055617" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/222452119939055617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="222452119939055617" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
