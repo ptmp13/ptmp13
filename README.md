@@ -61,5 +61,5 @@
 ###
 
 <h3 align="left">Certifications:</h3>
-<img src="https://user-images.githubusercontent.com/81752367/233767046-047f60e9-4c93-4e26-bf78-10b5ab197e90.png"/>
+<img src="https://user-images.githubusercontent.com/81752367/233767046-047f60e9-4c93-4e26-bf78-10b5ab197e90.png" height="341.5" width="300"/>
   
