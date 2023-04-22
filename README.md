@@ -24,4 +24,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptmp13&show_icons=true&locale=en&layout=compact" alt="ptmp13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptmp13&show_icons=true&locale=en" alt="ptmp13" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ptmp13&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptmp13&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
