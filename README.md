@@ -63,5 +63,5 @@
 <h3 align="left">Certifications:</h3>
 <div align="left">
 <img src="https://user-images.githubusercontent.com/81752367/233767046-047f60e9-4c93-4e26-bf78-10b5ab197e90.png" height="341.5" width="300"/>
-<img src="https://images.credential.net/badge/tiny/prk3bxql_1682088350415_badge.png"/>
+<img src="https://images.credential.net/badge/tiny/prk3bxql_1682088350415_badge.png" height="341.5" width="300"/>
 </div>
