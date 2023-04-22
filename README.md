@@ -62,7 +62,8 @@
 
 <h3 align="left">Certifications:</h3>
 <div align="left">
-<img src="https://images.credential.net/badge/tiny/prk3bxql_1682088350415_badge.png" height="300" width="auto"/>
-<img src="https://user-images.githubusercontent.com/81752367/233767046-047f60e9-4c93-4e26-bf78-10b5ab197e90.png" height="300" width="auto"/>
-<img src="https://user-images.githubusercontent.com/81752367/233767863-d8e951bc-a839-4c52-84e0-42b0d65d7628.png" height="300" width="auto"/>
+<img src="https://user-images.githubusercontent.com/81752367/233769905-13e201e7-9d68-4078-9d58-cba87ca7a0fc.png" height="300" width="auto"/>
+<img src="https://user-images.githubusercontent.com/81752367/233769909-0981b545-6e20-40d4-844c-720f16fd524c.png" height="300" width="auto"/>
+<img src="https://user-images.githubusercontent.com/81752367/233769910-c9c3734d-f177-439e-82d6-db83a2d1cc3d.png" height="300" width="auto"/>
+<img src="https://user-images.githubusercontent.com/81752367/233769911-ed3ad73b-02e5-490f-8aaa-07f8d047aeb3.png" height="300" width="auto"/>
 </div>
