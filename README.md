@@ -66,7 +66,9 @@
 <img src="https://user-images.githubusercontent.com/81752367/233777490-5cf4885c-5332-4a2c-a4ba-1a5e3c0b9761.png" height="150" width="auto"/>
 </a>
 <img src="https://user-images.githubusercontent.com/81752367/233777502-0d7c646c-ee49-434e-bf6b-5a5362d6c590.png" height="150" width="auto" margin="10,10,10,10"/>
+<a href="https://www.credly.com/badges/bfa1b699-e880-4cf9-97e5-1b9a5ac998d3">
 <img src="https://user-images.githubusercontent.com/81752367/233777503-dda6fcea-25e4-485b-9012-0af8633e5f76.png" height="150" width="auto"/>
+</a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a888f0b7-1bae-4d71-821b-380e340e631e-petr-degtiarev-ebc2b58e-6926-48fb-981d-7a954924acf1-certificate.pdf">
 <img src="https://user-images.githubusercontent.com/81752367/233777504-2b24fecb-7e3e-4507-b5b9-b8c8cd3761e2.png" height="150" width="auto"/>
 </a>
