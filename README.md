@@ -62,10 +62,14 @@
 
 <h3 align="left">Certifications:</h3>
 <div align="left">
+<a href="https://certified.elastic.co/336b76a7-b978-4b09-8df5-28f23c4fb8f2">
 <img src="https://user-images.githubusercontent.com/81752367/233777490-5cf4885c-5332-4a2c-a4ba-1a5e3c0b9761.png" height="150" width="auto"/>
+</a>
 <img src="https://user-images.githubusercontent.com/81752367/233777502-0d7c646c-ee49-434e-bf6b-5a5362d6c590.png" height="150" width="auto" margin="10,10,10,10"/>
 <img src="https://user-images.githubusercontent.com/81752367/233777503-dda6fcea-25e4-485b-9012-0af8633e5f76.png" height="150" width="auto"/>
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a888f0b7-1bae-4d71-821b-380e340e631e-petr-degtiarev-ebc2b58e-6926-48fb-981d-7a954924acf1-certificate.pdf">
 <img src="https://user-images.githubusercontent.com/81752367/233777504-2b24fecb-7e3e-4507-b5b9-b8c8cd3761e2.png" height="150" width="auto"/>
+</a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a888f0b7-1bae-4d71-821b-380e340e631e-petr-degtiarev-1bc4f84d-dd36-4f68-9d1d-0537199f6152-certificate.pdf">
 <img src="https://github.com/ptmp13/ptmp13/blob/e91963f713f03faf1b753fc43b209029295f5f0f/img/Prometheus.png" height="150" width="auto"/>
 </a>
