@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **elk**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
@@ -31,11 +33,13 @@
   </a>
 </div>
 
+<hr>
+
 <h3 align="left">Tools:</h3>
 
 <div align="left">
 
-![My Skills](https://skillicons.dev/icons?i=docker,bash,prometheus,linux,kubernetes,gitlab,kafka,grafana,react,regex,vim,go,html,idea,ansible,java,js,maven,nginx,nodejs,github,postman,git,spring,vscode,py,eclipse&perline=10)
+![My Skills](https://skillicons.dev/icons?i=docker,bash,prometheus,linux,kubernetes,gitlab,kafka,grafana,react,regex,vim,go,html,idea,ansible,java,js,maven,nginx,nodejs,github,postman,git,spring,vscode,py,eclipse,js,nextjs,neovim&perline=10)
 
 </div>
 
@@ -47,6 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ptmp13&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptmp13&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+<hr>
 
 ###
 
