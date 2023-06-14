@@ -32,6 +32,9 @@
 </div>
 
 <h3 align="left">Tools:</h3>
+
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
