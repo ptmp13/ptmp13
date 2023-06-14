@@ -39,7 +39,7 @@
 
 <div align="left">
 
-![My Skills](https://skillicons.dev/icons?i=docker,bash,prometheus,linux,kubernetes,gitlab,kafka,grafana,react,regex,vim,go,html,idea,ansible,java,js,maven,nginx,nodejs,github,postman,git,spring,vscode,py,eclipse,js,nextjs,neovim&perline=10)
+![My Skills](https://skillicons.dev/icons?i=docker,bash,prometheus,linux,kubernetes,gitlab,kafka,neovim,grafana,react,regex,vim,go,html,nextjs,idea,ansible,java,js,maven,nginx,nodejs,github,postman,git,spring,vscode,py,eclipse&perline=10)
 
 </div>
 
