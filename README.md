@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **reactjs**
 
-- 📝 I regularly write articles on [tmp13.com](https://tmp13.com)
+- 📝 I regularly write articles on [tmp13.me](https://tmp13.me)
 
 - 💬 Ask me about **elk**
 
