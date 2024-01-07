@@ -35,15 +35,27 @@
 
 <hr>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Admin Tools:</h3>
 
 <div align="left">
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,docker,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,react,regex,vim,html,idea,java,maven,nginx,nodejs,github,git,spring,vscode,py,eclipse&perline=8)
+![My Admin Skills](https://skillicons.dev/icons?i=elasticsearch,docker,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,vim,nginx,github,git&perline=8)
 
 </div>
 
 <hr>
+
+###
+
+<h3 align="left">Dev Tools:</h3>
+
+![My Dev Skills](https://skillicons.dev/icons?i=nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,vscode,py,eclipse,c,electron,md&perline=8)
+
+<div align="left">
+
+![My Skills](https://skillicons.dev/icons?i=elasticsearch,nextjs,docker,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,react,regex,vim,html,idea,java,maven,nginx,nodejs,github,git,spring,vscode,py,eclipse,c,electron&perline=8)
+
+</div>
 
 ###
 
