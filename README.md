@@ -95,7 +95,7 @@
         <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> 
       </td>
       <td>
-        <p>AZAZ <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/" target="_blank" rel="noopener noreferrer"> Logstash Monitoring Dashboard</a>.</p>
+        <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/" target="_blank" rel="noopener noreferrer"> Logstash Monitoring Dashboard</a>
       </td>
     </tr>
     <tr>
