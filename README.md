@@ -96,15 +96,14 @@
       vertical-align: top;
       box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2);
     ">
-    <img
-      id="pf-img"
-      style="display: block; text-align: center; margin: 21px 45px 0px; border-radius: 50%; box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2);"
-      src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754"
-      alt=""
-      width="150px"
-    />
-    <div style="margin: 40px 0px;">
-      <span>Name</span>
+  <div style="display: inline-block; margin-left: 30px;">
+    <div style="display: block; box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2); padding: 10px;">
+      <div style="display: inline-block; width: 280px; text-align: left;">Login Name</div>
+      <div style="display: inline-block; width: auto;">Login Name</div>
+    </div>
+    <div style="display: block; box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2); padding: 10px; margin-top: 38px;">
+      <div style="display: inline-block; width: 280px; text-align: left;">Login Name</div>
+      <div style="display: inline-block; width: auto;">Login Name</div>
     </div>
     
   <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/"> Logstash Monitoring Dashboard</a>
