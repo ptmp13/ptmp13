@@ -39,7 +39,7 @@
 
 <div align="left">
 
-![My Admin Skills](https://skillicons.dev/icons?i=elasticsearch,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,vim,nginx,github,git,docker&perline=8)
+![My Admin Skills](https://skillicons.dev/icons?i=elasticsearch,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,nginx,github,git,docker,vim&perline=8)
 
 </div>
 
