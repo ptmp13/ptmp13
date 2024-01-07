@@ -83,14 +83,8 @@
   <a href="https://www.linkedin.com/in/petr-degtiarev-349597212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/ptmp13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://discordapp.com/users/222452119939055617" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.twitch.tv/tmp13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
   <a href="https://medium.com/@ptmp13" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
@@ -109,6 +103,4 @@
 <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ptmp13&label=Profile%20views&color=0e75b6&style=flat" alt="ptmp13" /> </p>
-
-<p align="center"> <a href="https://twitter.com/ptmp13" target="blank"><img src="https://img.shields.io/twitter/follow/ptmp13?logo=twitter&style=for-the-badge" alt="ptmp13" /></a> </p>
 
