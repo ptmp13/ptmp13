@@ -90,7 +90,12 @@
 <h3 align="left">My grafana Dashboards:</h3>
 <div align="left">
 
-  <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> - [Logstash Monitoring Dashboard](https://grafana.com/grafana/dashboards/17918-logstash-monitoring/)  
+  <div align="left">
+  <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/>
+  </div>
+  <div align="right">
+  [Logstash Monitoring Dashboard](https://grafana.com/grafana/dashboards/17918-logstash-monitoring/)  
+  </div>
 
   <img src="https://github.com/ptmp13/ptmp13/assets/81752367/a497328a-1588-4463-8788-7fa08b86af9d" height="24" width="auto"/> - [Weblogic Server Dashboard](https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/)  
 
