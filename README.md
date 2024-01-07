@@ -49,12 +49,8 @@
 
 <h3 align="left">Dev Tools:</h3>
 
-![My Dev Skills](https://skillicons.dev/icons?i=nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,vscode,py,eclipse,c,electron,md&perline=8)
-
 <div align="left">
-
-![My Skills](https://skillicons.dev/icons?i=elasticsearch,nextjs,docker,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,react,regex,vim,html,idea,java,maven,nginx,nodejs,github,git,spring,vscode,py,eclipse,c,electron&perline=8)
-
+![My Dev Skills](https://skillicons.dev/icons?i=nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,vscode,py,eclipse,c,electron,md&perline=8)
 </div>
 
 ###
