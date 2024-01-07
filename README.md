@@ -88,24 +88,13 @@
 <hr>
 
 <h3 align="left">My grafana Dashboards:</h3>
-<div align="left" style="
-      display: inline-block;
-      width: 240px;
-      height: 270px;
-      text-align: center;
-      vertical-align: top;
-      box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2);
-    ">
-  <div style="display: inline-block; margin-left: 30px;">
-    <div style="display: block; box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2); padding: 10px;">
-      <div style="display: inline-block; width: 280px; text-align: left;">Login Name</div>
-      <div style="display: inline-block; width: auto;">Login Name</div>
-    </div>
-    <div style="display: block; box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2); padding: 10px; margin-top: 38px;">
-      <div style="display: inline-block; width: 280px; text-align: left;">Login Name</div>
-      <div style="display: inline-block; width: auto;">Login Name</div>
-    </div>
-    
+<div style="display: box;box-orient:horizontal;">
+  <div style="background: green;">
+      a<br>b
+  </div>
+  <div style="background: yellow;">
+     a
+  </div>
   <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/"> Logstash Monitoring Dashboard</a>
 
   <img src="https://github.com/ptmp13/ptmp13/assets/81752367/a497328a-1588-4463-8788-7fa08b86af9d" height="24" width="auto"/> <a style="text-align:center;display:block;" href="https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/"> Weblogic Server Dashboard</a>
