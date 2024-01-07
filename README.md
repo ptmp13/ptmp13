@@ -39,7 +39,7 @@
 
 <div align="left">
 
-![My Admin Skills](https://skillicons.dev/icons?i=elasticsearch,docker,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,vim,nginx,github,git&perline=8)
+![My Admin Skills](https://skillicons.dev/icons?i=elasticsearch,bash,prometheus,linux,kubernetes,gitlab,ansible,kafka,grafana,vim,nginx,github,git,docker&perline=8)
 
 </div>
 
@@ -54,6 +54,8 @@
 ![My Dev Skills](https://skillicons.dev/icons?i=nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,vscode,py,eclipse,c,electron,md&perline=8)
 
 </div>
+
+<hr>
 
 ###
 
@@ -81,4 +83,12 @@
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a888f0b7-1bae-4d71-821b-380e340e631e-petr-degtiarev-1bc4f84d-dd36-4f68-9d1d-0537199f6152-certificate.pdf">
 <img src="https://github.com/ptmp13/ptmp13/blob/e91963f713f03faf1b753fc43b209029295f5f0f/img/Prometheus.png" height="150" width="auto"/>
 </a>
+</div>
+
+<hr>
+
+<h3 align="left">My grafana Dashboards:</h3>
+<div align="left">
+  [Logstash Monitoring Dashboard](https://grafana.com/grafana/dashboards/17918-logstash-monitoring/)
+  [Weblogic Server Dashboard](https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/)
 </div>
