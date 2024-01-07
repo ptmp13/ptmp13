@@ -89,6 +89,9 @@
 
 <h3 align="left">My grafana Dashboards:</h3>
 <div align="left">
-  [Logstash Monitoring Dashboard](https://grafana.com/grafana/dashboards/17918-logstash-monitoring/)
-  [Weblogic Server Dashboard](https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/)
+
+  [Logstash Monitoring Dashboard](https://grafana.com/grafana/dashboards/17918-logstash-monitoring/)  
+
+  [Weblogic Server Dashboard](https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/)  
+  
 </div>
