@@ -88,7 +88,14 @@
 <hr>
 
 <h3 align="left">My grafana Dashboards:</h3>
-<div align="left">
+<div align="left" style="
+      display: inline-block;
+      width: 240px;
+      height: 270px;
+      text-align: center;
+      vertical-align: top;
+      box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2);
+    ">
 
   <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/"> Logstash Monitoring Dashboard</a>
 
