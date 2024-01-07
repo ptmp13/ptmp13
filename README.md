@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ptmp13" target="blank"><img src="https://img.shields.io/twitter/follow/ptmp13?logo=twitter&style=for-the-badge" alt="ptmp13" /></a> </p>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 One exam per year - next is Hashicorp Vault
 
 - 📝 I regularly write articles on [tmp13.me](https://tmp13.me)
 
