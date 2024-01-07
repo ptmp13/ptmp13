@@ -77,13 +77,6 @@
 
 <hr>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ptmp13&label=Profile%20views&color=0e75b6&style=flat" alt="ptmp13" /> </p>
-
-<p align="center"> <a href="https://twitter.com/ptmp13" target="blank"><img src="https://img.shields.io/twitter/follow/ptmp13?logo=twitter&style=for-the-badge" alt="ptmp13" /></a> </p>
-
-
-<hr>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
@@ -112,3 +105,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ptmp13&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptmp13&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+<hr>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ptmp13&label=Profile%20views&color=0e75b6&style=flat" alt="ptmp13" /> </p>
+
+<p align="center"> <a href="https://twitter.com/ptmp13" target="blank"><img src="https://img.shields.io/twitter/follow/ptmp13?logo=twitter&style=for-the-badge" alt="ptmp13" /></a> </p>
+
