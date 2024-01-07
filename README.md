@@ -37,15 +37,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ptmp13&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptmp13&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<hr>
-
-###
-
 <h3 align="left">Certifications:</h3>
 <div align="left">
 <a href="https://certified.elastic.co/336b76a7-b978-4b09-8df5-28f23c4fb8f2">
@@ -108,4 +99,13 @@
   <a href="https://medium.com/@ptmp13" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
+</div>
+
+<hr>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ptmp13&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptmp13&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
