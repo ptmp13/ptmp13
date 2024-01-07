@@ -94,6 +94,6 @@
 
   [Logstash Monitoring Dashboard](https://grafana.com/grafana/dashboards/17918-logstash-monitoring/)  
 
-  <img src="https://github.com/ptmp13/ptmp13/assets/81752367/a497328a-1588-4463-8788-7fa08b86af9d" height="24" width="auto"/> - [Weblogic Server Dashboard](https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/)  
+  <img src="https://github.com/ptmp13/ptmp13/assets/81752367/a497328a-1588-4463-8788-7fa08b86af9d" height="24" width="auto"/> <a href="https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/">Weblogic Server Dashboard</a>
 
 </div>
