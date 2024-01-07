@@ -50,7 +50,9 @@
 <h3 align="left">Dev Tools:</h3>
 
 <div align="left">
+
 ![My Dev Skills](https://skillicons.dev/icons?i=nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,vscode,py,eclipse,c,electron,md&perline=8)
+
 </div>
 
 ###
