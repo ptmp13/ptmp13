@@ -90,7 +90,7 @@
 <h3 align="left">My grafana Dashboards:</h3>
 <div align="left">
 
-  <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/">ololo</a>
+  <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/">Logstash Monitoring Dashboard</a>
 
   [Logstash Monitoring Dashboard](https://grafana.com/grafana/dashboards/17918-logstash-monitoring/)  
 
