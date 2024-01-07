@@ -88,16 +88,8 @@
 <hr>
 
 <h3 align="left">My grafana Dashboards:</h3>
-<div style="column-count: 3;
-  column-gap: 20px;
-  column-rule: 4px dotted rgb(79 185 227);">
-  <p>
-    dsfsdfs
-  </p>
-  <p>
-    ffffff
-  </p>
-  
+<div>
+
   <img src="https://github.com/ptmp13/ptmp13/assets/81752367/f9410041-3e4a-431e-9c5f-900a29b48754" height="24" width="auto"/> <a href="https://grafana.com/grafana/dashboards/17918-logstash-monitoring/"> Logstash Monitoring Dashboard</a>
 
   <img src="https://github.com/ptmp13/ptmp13/assets/81752367/a497328a-1588-4463-8788-7fa08b86af9d" height="24" width="auto"/> <a style="text-align:center;display:block;" href="https://grafana.com/grafana/dashboards/17972-weblogic-server-dashboard/"> Weblogic Server Dashboard</a>
