@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">whoami?</h3>
 
-- 🌱 One exam per year - next is Hashicorp Vault
+- 🌱 One exam per year - next is CKS
 
 - 📝 I regularly write articles on [tmp13.me](https://tmp13.me)
 
