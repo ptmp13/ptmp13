@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">whoami?</h3>
 
-- 🌱 One exam per year - next is CKS
+- 🌱 One exam per year - next is *CKS*
 
 - 📝 I regularly write articles on [tmp13.me](https://tmp13.me)
 
@@ -25,7 +25,7 @@
 
 <div align="left">
 
-![My Dev Skills](https://skillicons.dev/icons?i=nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,vscode,py,eclipse,c,electron,md&perline=8)
+![My Dev Skills](https://skillicons.dev/icons?i=webstorm,nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,py,sublime,eclipse,c,electron,md&perline=8)
 
 </div>
 
