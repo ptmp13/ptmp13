@@ -75,7 +75,7 @@
         <img src="https://github.com/ptmp13/test-logging-mdc/assets/81752367/189a7de8-e023-4ddf-97cd-e6fb80eaf18c" height="24" width="auto"/> 
       </td>
       <td>
-        <a href="https://grafana.com/grafana/dashboards/21420-kibana-monitoring/" target="_blank" rel="noopener noreferrer"> Logstash Monitoring Dashboard</a>
+        <a href="https://grafana.com/grafana/dashboards/21420-kibana-monitoring/" target="_blank" rel="noopener noreferrer"> Kibana Monitoring Dashboard</a>
       </td>
     </tr>
     <tr>
