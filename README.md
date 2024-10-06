@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">whoami?</h3>
 
-- 🌱 One exam per year - next is *CKS*
+- 🌱 Reading the book - [Practical Binary Analysis: Build Your Own Linux Tools for Binary](https://www.amazon.com/Practical-Binary-Analysis-Instrumentation-Disassembly/dp/1593279124/ref=sr_1_1?crid=18ZDM0UHP5E10&dib=eyJ2IjoiMSJ9.6-5SwJWxdSWdCWb2E6U_Vw.wVe2SDmKQ-HnIURKN9rnxetkAeM2Flm1B-cWNggTD08&dib_tag=se&keywords=Practical+Binary+Analysis%3A+Build+Your+Own+Linux+Tools+for+Binary&qid=1725970075&s=books&sprefix=practical+binary+analysis+build+your+own+linux+tools+for+binary+%2Cstripbooks-intl-ship%2C193&sr=1-1)
 
 - 📝 I regularly write articles on [tmp13.me](https://tmp13.me)
 
