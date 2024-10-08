@@ -40,7 +40,7 @@
 <a href="https://github.com/ptmp13/ptmp13/assets/81752367/0ffa63a2-434c-408b-93ed-e71a1f8c19d5">
 <img src="https://user-images.githubusercontent.com/81752367/233777502-0d7c646c-ee49-434e-bf6b-5a5362d6c590.png" height="150" width="auto" margin="10,10,10,10"/>
 </a>
-<a href="https://raw.githubusercontent.com/ptmp13/ptmp13/main/.github/images/Weblogic.png">
+<a href="https://raw.githubusercontent.com/ptmp13/ptmp13/main/.github/images/cube.png">
 <img src="https://user-images.githubusercontent.com/81752367/233777503-dda6fcea-25e4-485b-9012-0af8633e5f76.png" height="150" width="auto"/>
 </a>
 <a href="https://github.com/ptmp13/ptmp13/assets/81752367/b77c6aa8-6020-476c-a143-2c03ee00200d">
