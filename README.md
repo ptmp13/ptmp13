@@ -25,7 +25,7 @@
 
 <div align="left">
 
-![My Dev Skills](https://skillicons.dev/icons?i=webstorm,nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,py,sublime,eclipse,c,electron,md&perline=8)
+![My Dev Skills](https://skillicons.dev/icons?i=webstorm,nextjs,react,regex,vim,html,idea,java,maven,nodejs,spring,py,sublime,eclipse,c,electron,md,go&perline=8)
 
 </div>
 
