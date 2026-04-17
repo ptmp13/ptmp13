@@ -44,7 +44,7 @@
 <img src="https://user-images.githubusercontent.com/81752367/233777503-dda6fcea-25e4-485b-9012-0af8633e5f76.png" height="150" width="auto"/>
 </a>
 <a href="https://github.com/ptmp13/ptmp13/assets/81752367/b77c6aa8-6020-476c-a143-2c03ee00200d">
-<img src="https://images.credly.com/size/680x680/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" height="150" width="auto"/>
+<img src="https://raw.githubusercontent.com/ptmp13/ptmp13/refs/heads/main/img/vault-logo.png" height="150" width="auto"/>
 </a>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a888f0b7-1bae-4d71-821b-380e340e631e-petr-degtiarev-ebc2b58e-6926-48fb-981d-7a954924acf1-certificate.pdf">
 <img src="https://user-images.githubusercontent.com/81752367/233777504-2b24fecb-7e3e-4507-b5b9-b8c8cd3761e2.png" height="150" width="auto"/>
